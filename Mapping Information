@@ -1,0 +1,30 @@
+Notes:
+- colors must match to connect
+- red arrow means bad connection
+- underlines mean things can change - this is weird
+
+Issues/Suggestions:
+- Walkthrough/tutorial/suggestor with opt-out option for new users at the beginning?
+- Clarify error message language
+  - Block names could be simplified to one line - 
+  - Can't manipulate boxes while viewing errors
+  - Also, what is the meaning of orange, purple, and green fields in box menus? Does this make sense?
+  - Why is arrow red? Where is the error here? Need to clarify. If we shouln't connect, we shouldn't be able to connect
+  - When you click in the box, it displays errors but they are not labeled as errors
+- Menu should include a persistent seach box
+- Grey-out unusable menu option / red or bold things you MUST HAVE for it to work
+- Include some kind of legend for color-coding
+- Revise hover-descriptions/clarify language
+- Streamline & revise top menu icons
+- Kill/Execute too close together
+- Can we make any part of this interaction step-by-step?
+- Needs to indicate whether the element is linkable or add-on
+- Sprout arrows to indicate connections
+- Search looks like a magnifying glass
+- Why is there no zoom in/out?
+- Why are there two X's?? One deletes an element and one CLOSES the flowgraph.
+
+
+
+- What is the purpose of import math? Is this specific to our project? Why is it not automatic?
+*Not sure if VB or GNU problem - but it is difficult to open files from within GRC
