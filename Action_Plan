@@ -1,0 +1,59 @@
+Notes from 2/23:
+
+1) Action Plan:
+- Journey Map (existing or ideal)
+
+2) Prioritize Feature Goals
+
+3) How to Implement (ways of working)
+- GitHub, Slack, Draw.io
+  - vizix channel on Slack for collab
+  - GitHub for version control, doc storage, task management
+  - IX -> Draw.io
+  
+  
+Action Items:
+1) Determining Team Leads
+2) Mandatory Defaults / Decision Tree
+    lots of bandwidth/not much bandwidth >> distance versus data
+
+
+Features/Priorities:
+
+A. Tutorials
+- start screen to intro lingo -> workaround
+- IA Exercise
+  - Block Menu - need better schema
+    - categorize the items
+    - blocks that you can manipulate versus set blocks / flowgraph vs. not flowgraph
+    
+B. Synthesize Painpoints From Users
+  - GNU Radio forums
+
+C. More Help
+-> Doc. team collab
+- when/how/access for users
+
+  
+Block Menu Pain Points:
+- open > search bar
+- mult. clicks
+- order of blocks
+  - nec. vs. optional
+  - grey-out things you can't use
+
+Random list of stuff: 
+- Show menu
+  - different options to sort
+  - order - which ones set up?
+- Hide information
+  - check box/grey-out
+  - sort by/filter
+  - drop down menu 
+- View options-menu
+- User Story Statement 
+  
+ Post-its:
+ 1. user goes to mandatory defaults section
+ 2. how to fit puzzle pieces together
+ 3. make additional options available
